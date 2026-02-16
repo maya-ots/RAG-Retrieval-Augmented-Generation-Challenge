@@ -14,4 +14,4 @@ Embeddings
 FAISS (vector database)
 
 * Frontend:
-React chat widget (like a customer-support chat
+React chat widget (like a customer-support chat)
