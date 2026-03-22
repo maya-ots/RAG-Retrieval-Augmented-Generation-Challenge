@@ -8,3 +8,6 @@ Returns the exact, relevant answer from the documents
 Backend (Python): FastAPI PyPDF (read PDFs) Text chunking + overlap Embeddings FAISS (vector database)
 
 Frontend: React chat widget (like a customer-support chat)
+
+**app idea**
+An AI assistant that helps developers understand and search technical documentation instantly
